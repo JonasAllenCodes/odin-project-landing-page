@@ -1,7 +1,86 @@
+body{
+    margin: 0;
+}
+
 .container  {
     width: 80vw;
     max-width: 750px;
     margin: 0 auto;
     padding: 0;
     font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    background-color: #1f2937;
+    padding-bottom: 3rem;
+}
+
+.header-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-bar .header-logo    {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.header-bar .header-logo h1 {
+    margin: 1rem 0;
+}
+
+.header-bar .header-nav ul  {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+
+.header-bar .header-nav a   {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.header-content {
+    margin: 3rem 0rem;
+    display: flex;
+}
+
+.header-content .header-text    {
+    flex: 1 1 50%;
+    color: #e5e7eb;
+}
+
+.header-content .header-text h2 {
+    margin: 0;
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: extra-bold;
+}
+
+.header-content .header-text p  {
+    margin-top: 0;
+}
+
+.header-content .header-text .button {
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    width: fit-content;
+    display: block;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header-content .header-img {
+    flex: 1 1 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    color: #1f2937;
 }
