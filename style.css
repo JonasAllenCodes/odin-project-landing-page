@@ -137,3 +137,32 @@ body{
     text-align: right;
     font-weight: bold;
 }
+
+.cta    {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta .wrapper   {
+    margin: 4rem;
+    border-radius: 0.5rem;
+    background-color: #3882f6;
+}
+
+.cta .cta-content   {
+    margin: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #f9faf8;
+}
+
+.cta .cta-content h2,
+.cta .cta-content p    {
+    margin: 0;
+}
+
+.cta .cta-content .button    {
+    border: #f9faf8 solid;
+}
