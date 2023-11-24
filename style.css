@@ -3,6 +3,17 @@ body{
     background-color: #f9faf8;
 }
 
+.button {
+    padding: 0.5rem 2rem;
+    border-radius: 0.5rem;
+    width: fit-content;
+    display: block;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .wrapper  {
     width: 80vw;
     max-width: 1000px;
@@ -64,17 +75,6 @@ body{
 
 .header-content .header-text p  {
     margin-top: 0;
-}
-
-.header-content .header-text .button {
-    padding: 0.5rem 2rem;
-    border-radius: 0.5rem;
-    width: fit-content;
-    display: block;
-    color: #e5e7eb;
-    background-color: #3882f6;
-    text-decoration: none;
-    font-weight: bold;
 }
 
 .header-content .header-img {
