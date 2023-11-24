@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    background-color: #f9faf8;
 }
 
 .wrapper  {
@@ -83,4 +84,35 @@ body{
     align-items: center;
     background-color: #e5e7eb;
     color: #1f2937;
+}
+
+.showcase   {
+    color: #1f2937;
+    text-align: center;
+}
+
+.showcase h3    {
+    margin: 3rem;
+    font-weight: extra-bold;
+    font-size: 36px;
+}
+
+.showcase .cards    {
+    margin-bottom: 6rem;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.showcase .cards .card  {
+    width: 160px;
+}
+
+.showcase .cards .card-img  {
+    width: 160px;
+    height: 160px;
+    border: #3882f6 solid;
+    border-radius: 1rem;
 }
