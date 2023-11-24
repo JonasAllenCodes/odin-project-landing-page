@@ -166,3 +166,14 @@ body{
 .cta .cta-content .button    {
     border: #f9faf8 solid;
 }
+
+.footer .wrapper    {
+    padding: 3rem;
+    width: 100vw;
+    max-width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+}
