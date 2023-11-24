@@ -13,7 +13,7 @@ Get your project as close as you can to the design, but do not worry about getti
 Finally, feel free to substitute your own content into this design. The images have some meaningless dummy content, but if you want to make up a business and personalize this page, please feel free to do so! Insert actual images in the placeholders, and feel free to play with the colors and fonts a bit too.
 
 ## Assignment
-Don’t forget to commit early & often! You can reference the Commit Message lesson here!
+Don’t forget to commit early & often! You can [reference the Commit Message lesson here](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/commit-messages)!
 
 1. Download the design images and take a look at what you’re going to be creating here. [Image One (Full Design)](./images/01.png), [Image Two (Color and Fonts)](./images/02.png)
 
