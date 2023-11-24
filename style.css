@@ -116,3 +116,24 @@ body{
     border: #3882f6 solid;
     border-radius: 1rem;
 }
+
+.quote-container    {
+    padding: 8rem 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+.quote-container .quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+}
+
+.quote-container .quote-author  {
+    font-size: 18px;
+    text-align: right;
+    font-weight: bold;
+}
