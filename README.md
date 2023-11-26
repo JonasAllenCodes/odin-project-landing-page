@@ -2,7 +2,9 @@
 Foundations Course
 
 ## ToDo List
-[ ] Added in Google Font for different font weights
+
+[x] Added in Google Font for different font weights
+
 [ ] (Optional) Add into new theme and content
 
 
