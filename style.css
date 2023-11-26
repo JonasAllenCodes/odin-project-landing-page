@@ -1,6 +1,7 @@
 body{
     margin: 0;
     background-color: #f9faf8;
+    font-family: 'Roboto', sans-serif;
 }
 
 .button {
@@ -19,7 +20,6 @@ body{
     max-width: 1000px;
     margin: 0 auto;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
 }
 
 .header {
